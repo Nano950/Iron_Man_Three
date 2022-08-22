@@ -1,0 +1,10 @@
+.background-container {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.background {
+    display: flex;
+    flex-direction: row;
+}
